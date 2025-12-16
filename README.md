@@ -25,9 +25,9 @@
 | 2.18 | :green_circle: | :green_circle: |
 | 2.19 | :green_circle: | :green_circle: |
 | 2.20 | :green_circle: | :green_circle: |
-| 2.21 | :red_circle: | :red_circle: |
-| 2.22 | :red_circle: | :red_circle: |
-
+| 2.21 | :green_circle: | :green_circle: |
+| 2.22 | :green_circle: | :green_circle: |
+| 2.23 | :green_circle: | :green_circle: |
 
 
 ## 1 семестр 
@@ -38,5 +38,6 @@
 |п/п|Наименование|Статус|Ссылка на исходный код|Ссылка на схему|
 |---|---|---|---|---|
 |   |   |   |   |   |
+
 
 
