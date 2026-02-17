@@ -42,13 +42,34 @@
 | 33 | ptr_5 | :green_circle: | [code](https://github.com/YAND55/Labs_PSTU/blob/main/1%20sem/ptr_5/ptr_5.cpp) | [png](https://github.com/YAND55/Labs_PSTU/blob/main/1%20sem/ptr_5/ptr_5.png) |
 
 
-
-## 2 семестр 
-
-| п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
-| --- | --- | --- | --- | --- |
-| 1 | Лабораторная работа №4 | код: :red_circle: | [code]() |  |
-| 2 | Лабораторная работа №5 | код: :red_circle: | [code]() |  |
+## 2 семестр
+| Задача | Статус (код / схема) | Исходный код | Блок-схема |
+|--------|----------------------|--------------|------------|
+| пузырьком | 🔴 / 🔴 | [code](sem_2/bubble/main.cpp) | [png](sem_2/bubble/diag.png) |
+| выбором | 🔴 / 🔴 | [code](sem_2/vibor/main.cpp) | [png](sem_2/vibor/diag.png) |
+| вставками | 🔴 / 🔴 | [code](sem_2/vstavki/main.cpp) | [png](sem_2/vstavki/diag.png) |
+| 3.1 | 🔴 / 🔴 | [code](sem_2/3_1/main.cpp) | [png](sem_2/3_1/diag.png) |
+| 3.2 | 🔴 / 🔴 | [code](sem_2/3_2/main.cpp) | [png](sem_2/3_2/diag.png) |
+| 3.3 | 🔴 / 🔴 | [code](sem_2/3_3/main.cpp) | [png](sem_2/3_3/diag.png) |
+| 3.4 | 🔴 / 🔴 | [code](sem_2/3_4/main.cpp) | [png](sem_2/3_4/diag.png) |
+| 3.5 | 🔴 / 🔴 | [code](sem_2/3_5/main.cpp) | [png](sem_2/3_5/diag.png) |
+| 3.6 | 🔴 / 🔴 | [code](sem_2/3_6/main.cpp) | [png](sem_2/3_6/diag.png) |
+| 3.7 | 🔴 / 🔴 | [code](sem_2/3_7/main.cpp) | [png](sem_2/3_7/diag.png) |
+| 3.8 | 🔴 / 🔴 | [code](sem_2/3_8/main.cpp) | [png](sem_2/3_8/diag.png) |
+| 3.9 | 🔴 / 🔴 | [code](sem_2/3_9/main.cpp) | [png](sem_2/3_9/diag.png) |
+| 3.10 | 🔴 / 🔴 | [code](sem_2/3_10/main.cpp) | [png](sem_2/3_10/diag.png) |
+| 3.11 | 🔴 / 🔴 | [code](sem_2/3_11/main.cpp) | [png](sem_2/3_11/diag.png) |
+| 3.12 | 🔴 / 🔴 | [code](sem_2/3_12/main.cpp) | [png](sem_2/3_12/diag.png) |
+| 3.13 | 🔴 / 🔴 | [code](sem_2/3_13/main.cpp) | [png](sem_2/3_13/diag.png) |
+---
+## Лабы
+| Номер | Номер в методичке | Статус (код / схема) | Исходный код | Блок-схема |
+|--------|--------|----------------------|--------------|------------|
+| 1 |  3  | 🔴 / 🔴 | [code](sem_2/lab_1/main.cpp) | [png](sem_2/lab_1/diag.png) |
+| 2 |  4  | 🔴 / 🔴 | [code](sem_2/lab_2/main.cpp) | [png](sem_2/lab_2/diag.png) |
+| 3 |  5  | 🔴 / 🔴 | [code](sem_2/lab_3/main.cpp) | [png](sem_2/lab_3/diag.png) |
+| 4 |  10  | 🔴 / 🔴 | [code](sem_2/lab_4/main.cpp) | [png](sem_2/lab_4/diag.png) |
+---
 
 
 
