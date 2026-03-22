@@ -45,10 +45,10 @@
 
 |п/п| Наименование | Ссылка на репозиторий | Ссылка на схему |
 |---|---|---|---| 
-|-| задачи с массивами  | [репозиторий]()|   |
-|1 🟢/🟢 |Ханойские башни|[код]()|[схема]()|
-|2 🟢/🟢|8 ферзей|[код]()|[схема]()|
-|3 🟢/🟢|простые сортировки|[репозиторий]()|
+|-| задачи с массивами  | [репозиторий](https://github.com/YAND55/Labs_PSTU/tree/main/2%20sem/3)|   
+|1 🟢/🟢 |Ханойские башни|[код](https://github.com/YAND55/Labs_PSTU/blob/main/2%20sem/hanoiskaya/hanoiskaya.cpp)|[схема](https://github.com/YAND55/Labs_PSTU/blob/main/2%20sem/hanoiskaya/hanoiskaya.png)|
+|2 🟢/🟢|8 ферзей|[код](https://github.com/YAND55/Labs_PSTU/blob/main/2%20sem/8%20queen/8%20queen.cpp)|[схема](https://github.com/YAND55/Labs_PSTU/blob/main/2%20sem/8%20queen/8%20queen.png)|
+|3 🟢/🟢|простые сортировки|[репозиторий](https://github.com/YAND55/Labs_PSTU/tree/main/2%20sem/sort)|
 |4 🟢/🟢|4 лаба|[код]()|[схема]()|
 |5 🟢/🟢|5 лаба|[код]()|[схема]()|
 |6 🟢/🟢|6 лаба|[код]()|[схема]()|
