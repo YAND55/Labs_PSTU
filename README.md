@@ -46,60 +46,59 @@
 Лабораторные работы с лекций:
 | Задание | Код | Блок-схема |
 | --- | :---: | :---: |
-| `bubble sort` | :green_circle:  | :green_circle: |
-| `choice sort` | :green_circle:  | :green_circle: |
-| `insert sort` | :green_circle:  | :green_circle: |
-| `hanoy` | :green_circle:  | :green_circle: |
-| `8 queens` | :green_circle:  | :green_circle: |
-| `hoare sort` | :green_circle:  | :green_circle: |
-| `shell sort` | :red_circle:  | :red_circle: |
-| `lomuto sort` | :red_circle:  | :red_circle: |
-| `bucket sort` | :red_circle:  | :red_circle: |
-| `counting sort` | :red_circle:  | :red_circle: |
-| `merge sort` | :red_circle:  | :red_circle: |
-| `linear search` | :green_circle:  | :green_circle: |
-| `binary search` | :green_circle:  | :green_circle: |
-| `interpolation search` | :green_circle:  | :green_circle: |
-| `Boyer-Moore search` | :red_circle:  | :red_circle: |
-| `Knuth-Morris-Pratt search` | :red_circle:  | :red_circle: |
-| `Hash-tables` | :red_circle: | :red_circle: |
-| `Natural sort` | :green_circle:  | :green_circle: |
-| `Mult-phase sort` | :green_circle:  | :green_circle: |
+| bubble sort | :green_circle:  | :green_circle: |
+| choice sort | :green_circle:  | :green_circle: |
+| insert sort | :green_circle:  | :green_circle: |
+| hanoy | :green_circle:  | :green_circle: |
+| 8 queens | :green_circle:  | :green_circle: |
+| hoare sort | :green_circle:  | :green_circle: |
+| shell sort | :red_circle:  | :red_circle: |
+| lomuto sort | :red_circle:  | :red_circle: |
+| bucket sort | :red_circle:  | :red_circle: |
+| counting sort | :red_circle:  | :red_circle: |
+| merge sort | :red_circle:  | :red_circle: |
+| linear search | :green_circle:  | :green_circle: |
+| binary search | :green_circle:  | :green_circle: |
+| interpolation search | :green_circle:  | :green_circle: |
+| Boyer-Moore search | :red_circle:  | :red_circle: |
+| Knuth-Morris-Pratt search | :red_circle:  | :red_circle: |
+| Hash-tables | :red_circle: | :red_circle: |
+| Natural sort | :green_circle:  | :green_circle: |
+| Mult-phase sort | :green_circle:  | :green_circle: |
 
 «Зеленая методичка»
 | Задание | Код | Блок-схема |
 | --- | :---: | :---: |
-| `3` | :red_circle: | :red_circle: |
-| `4` | :green_circle:  | :green_circle: |
-| `5` | :green_circle:  | :green_circle: |
-| `6` | :green_circle:  | :green_circle: |
-| `7.1` | :green_circle:  | :green_circle: |
-| `7.2` | :green_circle:  | :green_circle: |
-| `8` | :red_circle:  | :red_circle: |
-| `9` | :green_circle:  | :green_circle: |
-| `10` | :green_circle:  | :green_circle: |
-| `11.1` | :green_circle:  | :green_circle: |
-| `11.2` | :green_circle:  | :green_circle: |
-| `11.3` | :green_circle:  | :green_circle: |
-| `11.4` | :green_circle:  | :green_circle: |
-
+| 3 | :red_circle: | :red_circle: |
+| 4 | :green_circle:  | :green_circle: |
+| 5 | :green_circle:  | :green_circle: |
+| 6 | :green_circle:  | :green_circle: |
+| 7.1 | :green_circle:  | :green_circle: |
+| 7.2 | :green_circle:  | :green_circle: |
+| 8 | :red_circle:  | :red_circle: |
+| 9 | :green_circle:  | :green_circle: |
+| 10 | :green_circle:  | :green_circle: |
+| 11.1 | :green_circle:  | :green_circle: |
+| 11.2 | :green_circle:  | :green_circle: |
+| 11.3 | :green_circle:  | :green_circle: |
+| 11.4 | :green_circle:  | :green_circle: |
 
 Лабораторные по классам 
 | Задание | Код | UML |
 | --- | :---: | :---: |
-| `lab class 1` | :green_circle:  | :green_circle: |
-| `lab class 2` | :green_circle:  | :green_circle: |
-| `lab class 3` | :green_circle:  | :green_circle: |
-| `lab class 4` | :green_circle:  | :green_circle: |
-| `lab class 5` | :green_circle:  | :green_circle: |
-| `lab class 6` | :green_circle:  | :green_circle: |
-| `lab class 7` | :green_circle:  | :green_circle: |
-| `lab class 8` | :green_circle:  | :green_circle: |
-| `lab class 9` | :green_circle:  | :green_circle: |
-| `lab class 10` | :red_circle:  | :red_circle: |
-| `lab class 11` | :red_circle:  | :red_circle: |
-| `lab class 12` | :red_circle:  | :red_circle: |
-| `lab class 13` | :red_circle:  | :red_circle: |
+| lab class 1 | :green_circle:  | :green_circle: |
+| lab class 2 | :green_circle:  | :green_circle: |
+| lab class 3 | :green_circle:  | :green_circle: |
+| lab class 4 | :green_circle:  | :green_circle: |
+| lab class 5 | :green_circle:  | :green_circle: |
+| lab class 6 | :green_circle:  | :green_circle: |
+| lab class 7 | :green_circle:  | :green_circle: |
+| lab class 8 | :green_circle:  | :green_circle: |
+| lab class 9 | :green_circle:  | :green_circle: |
+| lab class 10 | :red_circle:  | :red_circle: |
+| lab class 11 | :red_circle:  | :red_circle: |
+| lab class 12 | :red_circle:  | :red_circle: |
+| lab class 13 | :red_circle:  | :red_circle: |
 
 
 
