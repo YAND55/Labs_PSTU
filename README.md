@@ -95,10 +95,10 @@
 | lab class 7 | :green_circle:  | :green_circle: |
 | lab class 8 | :green_circle:  | :green_circle: |
 | lab class 9 | :green_circle:  | :green_circle: |
-| lab class 10 | :red_circle:  | :red_circle: |
-| lab class 11 | :red_circle:  | :red_circle: |
-| lab class 12 | :red_circle:  | :red_circle: |
-| lab class 13 | :red_circle:  | :red_circle: |
+| lab class 10 | :green_circle:  | :green_circle: |
+| lab class 11 | :green_circle:  | :green_circle: |
+| lab class 12 | :green_circle:  | :green_circle: |
+| lab class 13 | :green_circle:  | :green_circle: |
 
 
 
