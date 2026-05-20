@@ -52,30 +52,31 @@
 | hanoy | :green_circle:  | :green_circle: |
 | 8 queens | :green_circle:  | :green_circle: |
 | hoare sort | :green_circle:  | :green_circle: |
-| shell sort | :red_circle:  | :red_circle: |
-| lomuto sort | :red_circle:  | :red_circle: |
-| bucket sort | :red_circle:  | :red_circle: |
-| counting sort | :red_circle:  | :red_circle: |
-| merge sort | :red_circle:  | :red_circle: |
+| shell sort | :green_circle:  | :green_circle: |
+| lomuto sort | :green_circle:  | :green_circle: |
+| bucket sort | :green_circle:  | :green_circle: |
+| counting sort | :green_circle:  | :green_circle: |
+| merge sort | :green_circle:  | :green_circle: |
 | linear search | :green_circle:  | :green_circle: |
 | binary search | :green_circle:  | :green_circle: |
 | interpolation search | :green_circle:  | :green_circle: |
-| Boyer-Moore search | :red_circle:  | :red_circle: |
-| Knuth-Morris-Pratt search | :red_circle:  | :red_circle: |
-| Hash-tables | :red_circle: | :red_circle: |
+| Boyer-Moore search | :green_circle:  | :green_circle: |
+| Knuth-Morris-Pratt search |  :green_circle:  | :green_circle: |
+| Hash-tables | :green_circle: | :green_circle: |
 | Natural sort | :green_circle:  | :green_circle: |
 | Mult-phase sort | :green_circle:  | :green_circle: |
+| Tree | :red_circle:  | :red_circle: |
 
 «Зеленая методичка»
 | Задание | Код | Блок-схема |
 | --- | :---: | :---: |
-| 3 | :red_circle: | :red_circle: |
+| 3 | :green_circle: | :green_circle: |
 | 4 | :green_circle:  | :green_circle: |
 | 5 | :green_circle:  | :green_circle: |
 | 6 | :green_circle:  | :green_circle: |
 | 7.1 | :green_circle:  | :green_circle: |
 | 7.2 | :green_circle:  | :green_circle: |
-| 8 | :red_circle:  | :red_circle: |
+| 8 | :green_circle:  | :green_circle: |
 | 9 | :green_circle:  | :green_circle: |
 | 10 | :green_circle:  | :green_circle: |
 | 11.1 | :green_circle:  | :green_circle: |
