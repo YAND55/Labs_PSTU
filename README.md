@@ -65,7 +65,9 @@
 | Hash-tables | :green_circle: | :green_circle: |
 | Natural sort | :green_circle:  | :green_circle: |
 | Mult-phase sort | :green_circle:  | :green_circle: |
-| Tree | :red_circle:  | :red_circle: |
+| BinTree | :red_circle:  | :red_circle: |
+| Graph | :red_circle:  | :red_circle: |
+| Komi | :red_circle:  | :red_circle: |
 
 «Зеленая методичка»
 | Задание | Код | Блок-схема |
